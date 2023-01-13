@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-image: url(shkola.webp);
+    background-size: cover;
+}
+input{
+    display: block;
+    margin: 0 auto;
+}
+button{
+    width: 40px;
+    height: 40px;
+}
